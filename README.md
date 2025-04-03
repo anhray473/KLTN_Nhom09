@@ -1,6 +1,6 @@
 **//clone dự án:**
 
-git clone https://github.com/anhray473/KLTN_Nhom09.git
+git clone <link git dự án>
 
 **//upload dự án lên git:**
 - git init
@@ -8,8 +8,12 @@ git clone https://github.com/anhray473/KLTN_Nhom09.git
 - git commit -m "nội dung commit"
 - git push -u origin <tên-nhánh>
 
+**//Cập nhật thay đổi của dự án trên Git về máy**
+- git init
+- git pull
+
 **//kiểm tra các nhánh của dự án:**
-  - git branch
+- git branch
 
 **//Tạo nhánh mới:**
 - git branch <tên_nhánh>
